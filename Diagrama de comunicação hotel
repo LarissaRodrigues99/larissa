@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T10:06:53.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" version="15.2.9" etag="oA5ZurEgBAjDB97u0oXq" type="github"><diagram id="WGa7rVyDqiE6Mkyuz7o4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-20T11:20:30.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="Wmk7xtoUlSWJaJ7HPXLf" version="15.2.9" type="github">
+  <diagram id="WGa7rVyDqiE6Mkyuz7o4" name="Page-1">
+    <mxGraphModel dx="1284" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CScLuoJDwT8nQOfYx83r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScLuoJDwT8nQOfYx83r-2" target="CScLuoJDwT8nQOfYx83r-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-2" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CScLuoJDwT8nQOfYx83r-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="65" as="sourcePoint" />
+            <mxPoint x="380" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-10" value="Visualização dos quartos" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="45" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScLuoJDwT8nQOfYx83r-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.9999999999998" y="139.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-11" value="Número do quarto" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="45" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScLuoJDwT8nQOfYx83r-16" target="CScLuoJDwT8nQOfYx83r-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-16" value="Consultar hospede" style="text;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="135" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-19" value="Se disponível" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CScLuoJDwT8nQOfYx83r-17" target="CScLuoJDwT8nQOfYx83r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-23" value="Não disponível" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434.9999999999998" y="154.9999999999999" as="sourcePoint" />
+            <mxPoint x="309.9999999999998" y="154.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-17" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="435" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-22" value="Não exibir na tela" style="text;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="135" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScLuoJDwT8nQOfYx83r-24" value="Escolha diária" style="text;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
