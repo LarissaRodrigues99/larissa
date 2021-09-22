@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T09:40:28.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" version="15.2.9" etag="3E-KE_UR_-YyxjhvHRuT" type="github"><diagram id="hT3uPByjvH81sXS-dy7o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-22T10:54:19.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="y4F0lcfVUx5NDnVOJRaq" version="15.2.9" type="github">
+  <diagram id="hT3uPByjvH81sXS-dy7o" name="Page-1">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLMemvzQGfiRrOtpB5FD-1" target="lLMemvzQGfiRrOtpB5FD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-1" value="Aberto" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="224" y="150" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLMemvzQGfiRrOtpB5FD-2" target="lLMemvzQGfiRrOtpB5FD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-2" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-8" value="inicio/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lLMemvzQGfiRrOtpB5FD-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="161" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-9" value="Quarto" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="460" y="132.5" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-11" value="do/adicionarQuarto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lLMemvzQGfiRrOtpB5FD-9">
+          <mxGeometry x="-5" y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-13" value="selecionar quarto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-14" value="aguardando escolha" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="660" y="147.5" width="126" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-16" value="Pagamento" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMemvzQGfiRrOtpB5FD-17" value="do/tipo de pagamento" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="60" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
